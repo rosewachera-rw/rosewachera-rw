@@ -9,3 +9,18 @@
 - 📫 How to reach me - [X](https://x.com/_Ros3y)
 - 😄 Pronouns: Her
 - ⚡ Fun fact: I love numbers like 1337
+
+### Connect with me:
+
+<p align="left">
+  <a href="https://x.com/_Ros3y" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" 
+         alt="X" width="30" height="30">
+  <!--  
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" 
+         alt="LinkedIn" width="30" height="30">
+  </a>
+    -->
+</p>
